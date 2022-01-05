@@ -1,9 +1,8 @@
 # OrbitalPathfinder
 
-	From the advent of code 2019, day 6 (https://adventofcode.com/2019/day/6). This takes a text
-document of "orbits". Part 1 calculates the number of orbits. Part 2 gives the shortest number of 
-orbits between two planets. It has been modified to run through the command line in the following 
-format:
+	From the advent of code 2019, day 6 (https://adventofcode.com/2019/day/6). 
+This takes a text document of "orbits". Part 1 calculates the number of orbits. Part 2 gives the shortest number of 
+orbits between two planets. It has been modified to run through the command line in the following format:
 
 	part filename.txt planet1 planet2
 
