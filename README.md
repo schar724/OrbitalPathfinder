@@ -17,4 +17,6 @@ examples:
 	-How to use a graph data structure
 	-Shortest path algorithm
 	-Breadth first vs depth first traversals
+	-How to use HashMaps
+	-Getting better with recursion
 	
