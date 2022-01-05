@@ -1,4 +1,4 @@
-#OrbitalPathfinder
+# OrbitalPathfinder
 
 	From the advent of code 2019, day 6 (https://adventofcode.com/2019/day/6). This takes a text
 document of "orbits". Part 1 calculates the number of orbits. Part 2 gives the shortest number of 
@@ -13,7 +13,7 @@ examples:
 
 	Part 2) 2 input-simple-dos.txt YOU SAN
 
-#What I Learned:
+# What I Learned:
 
 	-How to use a graph data structure
 	-Shortest path algorithm
